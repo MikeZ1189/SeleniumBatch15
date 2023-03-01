@@ -1,0 +1,17 @@
+ Locators -> there are 8, whenever we need to find a particular webElement, we use locators
+ 1. Id
+ 2. name
+ 3. class
+ 4. linkText --> they can oly be used with a link and it must have a text (a link is usually in the tag <a>)
+ 5. Xpath
+ 6. Css
+ 7. tagName
+ 8. partial linktext --> they can oly be used with a link and it must have a text (a link is usually in the tag <a>)
+
+ why do we need 8 locators?
+    - sometimes there might be a locator with duplicate value
+    - sometimes the developers might not provide you will all the locators
+
+ Important to remember when selecting a locators
+    - if an attribute value has a number in it, it is better to avoid it and use an alternative locator
+

@@ -1,0 +1,28 @@
+
+Selenium is an Automation Suite
+
+Components of Selenium
+    - Selenium IDE {Selenium 1}
+    - Selenium RC-Remote Control {Selenium 2}
+    - Selenium WebDriver {Selenium 3} --> {Selenium 4.x}
+    - Selenium Grid --> what we are learning today
+
+Open Source Tool
+    - can visualize the code
+    - can customize the code
+    - can contribute to the code
+
+Free license tool
+
+Selenium supports multiple browsers: Chrome/FireFox/Safari/Edge/IE/Opera
+Also supports multiple OS: Windows/Mac/Linus [Unix not supported]
+Also supports multiple programming languages: Java,C#,Python,Perl,Ruby,PHP, JS
+
+W3C Protocol: World Wide Web Consortium
+
+--------------------------------------------------------------------------------------------------
+
+1 - Selenium can be used to automate only browsers and web applications!
+2 - we cannot automate APIs using Selenium
+3 - Selenium is not a test automation tool, its an automation tool
+4 - Can't use Selenium for security testing
