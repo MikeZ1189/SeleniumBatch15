@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e71f8d6a-affa-4f76-88a7-0ef4ceb70f4f" name="Changes" comment="class2">
-      <change beforePath="$PROJECT_DIR$/src/class1/LaunchBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class1/LaunchBrowser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/Maximize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class1/Maximize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class1/Navigate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class1/Navigate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class2/WebOrderTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class2/WebOrderTask2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class2/locatingElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class2/locatingElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class2/tagName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class2/tagName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class2/webOrderTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class2/webOrderTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -46,6 +40,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2M0Hoc3egc23vyuElV8rZQUZvuS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -63,13 +58,18 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.tagName">
-    <configuration name="XpathDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class3.XpathDemo" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="class4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RadioButton2">
+    <configuration name="CSSselector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class4.CSSselector" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class3.*" />
+          <option name="PATTERN" value="class4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +77,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="class2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class2.Main" />
+    <configuration name="RadioBtns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class4.RadioBtns" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class2.*" />
+          <option name="PATTERN" value="class4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioButton2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class4.RadioButton2" />
+      <module name="SeleniumBatch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XpathDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class3.XpathDemo" />
+      <module name="SeleniumBatch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,39 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class2.test" />
-      <module name="SeleniumBatch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class2.test" />
-      <module name="SeleniumBatch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RadioButton2" />
+        <item itemvalue="Application.RadioBtns" />
+        <item itemvalue="Application.CSSselector" />
         <item itemvalue="Application.tagName" />
         <item itemvalue="Application.XpathDemo" />
-        <item itemvalue="Application.test (1)" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.class2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +159,9 @@
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src" />
+    </ignored-roots>
     <MESSAGE value="class2" />
     <option name="LAST_COMMIT_MESSAGE" value="class2" />
   </component>

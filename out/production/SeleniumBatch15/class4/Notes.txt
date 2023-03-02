@@ -1,0 +1,46 @@
+Locators:
+
+Xpath
+CSS
+
+--------------------------------------- CSS --------------------------------------------
+
+1. get an element using CSS selector
+    a. Syntax:
+                tagName[attribute='attribute value']
+
+the beauty about CSS selector is that instead of writing the full syntax you can also use shortcuts
+
+classname --> tagName [classname='value'] you can write "tagName.value" --> .
+
+ID --> tagName [id='value'] you can write "tagName#value" --> #
+
+Note:
+    In CSS selector we do not have this option of getting an element by TEXT
+
+    but CSS has this contains method that can be used
+        Syntax: for contains method for css
+
+        tagName[attribute *= 'partial attribute value']  where * means contains here
+
+    CSS has some other amazing features too, like:
+        a. starts-with method in CSS:
+                        tagName[attribute ^='starting attribute value'] where ^ means starts with
+
+              Example:
+              <input id="abra ca dabra hello" , email="rote"/>
+              CSS using starts with method:
+                    input[ id ^= 'abra' ]
+
+        b. ends-with method in CSS:
+            $ symbol represents ends-with method in CSS
+
+            syntax:
+            tagName[attribute $='ending attribute value'] where $ means ends with
+
+                          Example:
+                          <input id="abra ca dabra hello" , email="rote"/>
+                          CSS using ends with method:
+                                input[ id $= 'hello' ]
+
+-------------------------------------------------------------------------------------------------------------------
