@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e71f8d6a-affa-4f76-88a7-0ef4ceb70f4f" name="Changes" comment="class2">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,30 +45,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "corretto-11",
-    "last_opened_file_path": "/Users/michaelzurita/IdeaProjects/SeleniumBatch15",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/michaelzurita/IdeaProjects/SeleniumBatch15&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="class5" />
+      <recent name="reviewClass2" />
+      <recent name="reviewClass1" />
       <recent name="class4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RadioBtns">
-    <configuration name="CSSselector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class4.CSSselector" />
+  <component name="RunManager" selected="Application.WindowHandle">
+    <configuration name="CheckBoxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class5.CheckBoxes" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class4.*" />
+          <option name="PATTERN" value="class5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioBtns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class4.RadioBtns" />
+    <configuration name="ConfirmationAlert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class5.ConfirmationAlert" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class4.*" />
+          <option name="PATTERN" value="class5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioButton2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class4.RadioButton2" />
+    <configuration name="DropDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class5.DropDown" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class4.*" />
+          <option name="PATTERN" value="class5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XpathDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class3.XpathDemo" />
+    <configuration name="MultiDropDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class5.MultiDropDown" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class3.*" />
+          <option name="PATTERN" value="class5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tagName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class3.tagName" />
+    <configuration name="WindowHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class5.WindowHandle" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class3.*" />
+          <option name="PATTERN" value="class5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RadioBtns" />
-        <item itemvalue="Application.RadioButton2" />
-        <item itemvalue="Application.CSSselector" />
-        <item itemvalue="Application.tagName" />
-        <item itemvalue="Application.XpathDemo" />
+        <item itemvalue="Application.WindowHandle" />
+        <item itemvalue="Application.ConfirmationAlert" />
+        <item itemvalue="Application.MultiDropDown" />
+        <item itemvalue="Application.DropDown" />
+        <item itemvalue="Application.CheckBoxes" />
       </list>
     </recent_temporary>
   </component>
