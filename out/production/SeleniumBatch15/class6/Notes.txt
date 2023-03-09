@@ -1,0 +1,7 @@
+Waits:
+Implicit Wait --> it is going to wait for the WebElement to be found until the timeout
+ Syntax:
+         driver.manage().timeouts().implicitlyWait(20, TimeUnits.SECONDS);
+
+ approach:
+ 1) to declare them only once in the starting of your code ---> called Global Waits

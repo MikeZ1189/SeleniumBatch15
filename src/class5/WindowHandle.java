@@ -11,9 +11,9 @@ public class WindowHandle {
     public static void main(String[] args) throws InterruptedException {
 
         // first step in automation is to tell your project where the webdriver is located.
-        System.setProperty("webdriver.chrome.driver","drivers/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "drivers/chromedriver");
         // create an instance of webdriver
-        WebDriver driver=new ChromeDriver();
+        WebDriver driver = new ChromeDriver();
         // max the window
         driver.manage().window().maximize();
         // open syntaxprojects.com
@@ -27,11 +27,22 @@ public class WindowHandle {
         System.out.println(parentWindowHandle);
 
         // get window handles of all the windows that have been opened up
-        Set<String> windowHandles= driver.getWindowHandles();
-        for (String wh: windowHandles){
+        Set<String> windowHandles = driver.getWindowHandles();
+        for (String wh : windowHandles) {
             System.out.println(wh);
 
-
+            // switch the focus of the driver to help window
+            driver.switchTo().window(wh);
+            // check the title of the window to which out focus is right now
+            String title=driver.getTitle();
+            if(title.equalsIgnoreCase("Privacy Policy – Privacy & Terms – Google")){
+                break;
+            }
         }
+        // to verify we switched to the right window
+        System.out.println(driver.getTitle());
+        //switches focus back on parent handle
+        driver.switchTo().window(parentWindowHandle);
+
     }
 }
