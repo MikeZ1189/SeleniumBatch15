@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e71f8d6a-affa-4f76-88a7-0ef4ceb70f4f" name="Changes" comment="class2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class5/WindowHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class5/WindowHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reviewClass2/LaunchApplication3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reviewClass2/LaunchApplication3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,19 +60,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="reviewClass3" />
       <recent name="class5" />
       <recent name="reviewClass2" />
       <recent name="reviewClass1" />
       <recent name="class4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.implicitwait">
-    <configuration name="ConfirmationAlert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class5.ConfirmationAlert" />
+  <component name="RunManager" selected="Application.HandlingAuthPopUps">
+    <configuration name="HandlingAuthPopUps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass3.HandlingAuthPopUps" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class5.*" />
+          <option name="PATTERN" value="reviewClass3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Frames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class6.Frames" />
+    <configuration name="HandlingCheckboxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass3.HandlingCheckboxes" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class6.*" />
+          <option name="PATTERN" value="reviewClass3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiDropDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class5.MultiDropDown" />
+    <configuration name="HandlingMultipleCheckboxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass3.HandlingMultipleCheckboxes" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class5.*" />
+          <option name="PATTERN" value="reviewClass3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class5.WindowHandle" />
+    <configuration name="HandlingSelectiveCheckboxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass3.HandlingSelectiveCheckboxes" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class5.*" />
+          <option name="PATTERN" value="reviewClass3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="implicitwait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class6.implicitwait" />
+    <configuration name="HandlingSelectiveCheckboxes2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass3.HandlingSelectiveCheckboxes2" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class6.*" />
+          <option name="PATTERN" value="reviewClass3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.implicitwait" />
-        <item itemvalue="Application.Frames" />
-        <item itemvalue="Application.WindowHandle" />
-        <item itemvalue="Application.ConfirmationAlert" />
-        <item itemvalue="Application.MultiDropDown" />
+        <item itemvalue="Application.HandlingAuthPopUps" />
+        <item itemvalue="Application.HandlingSelectiveCheckboxes2" />
+        <item itemvalue="Application.HandlingSelectiveCheckboxes" />
+        <item itemvalue="Application.HandlingMultipleCheckboxes" />
+        <item itemvalue="Application.HandlingCheckboxes" />
       </list>
     </recent_temporary>
   </component>

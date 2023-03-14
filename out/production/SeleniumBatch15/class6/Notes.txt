@@ -5,3 +5,37 @@ Implicit Wait --> it is going to wait for the WebElement to be found until the t
 
  approach:
  1) to declare them only once in the starting of your code ---> called Global Waits
+
+Explicit Wait --> conditional wait
+We git conditions:
+        wait for the webelement to be visible
+        wait for the webelement to be clickable
+        wait for the webelement to be enabled
+
+
+Todays class:
+1) Switchto.windows();
+
+2) Switchto.frame();
+    Whenever there is some element in order to interact with it we need to shift the focus of the driver to that frame
+
+driver.switchto.frame() ---> by Id or Name
+by id or name
+by index
+by webelement
+
+defaultcontent();
+
+explicit wait;
+ are they global?
+ not global
+
+ implicit waits
+ global waits --> they are implemented automatically to the whole class
+
+ implicit --> is going to wait until the webelement is found
+
+ explicit wait:
+ conditional waits
+ is enabled
+ is visible

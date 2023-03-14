@@ -1,0 +1,31 @@
+XPath Locators:
+
+    2 types of XPath Locators: Absolute and Relative(aka custom XPath)
+    We don't use Absolute, it is dynamic, could change
+
+    Absolute XPath:  /html/body/div[1]/div[1]/div[1]/div/div/div/div[2]/div/div[1]/form/div[1]/div[1]/input
+                    they always start with a single /
+                    and start with html tag
+    Relative XPath:
+        1) always start with double //     //tagName[@attributeName = 'value']
+                examples:
+                //input[@id = 'userId']
+                //input[@id = 'userId' and @title = 'Email']    can use multiple attributes using (and or)
+                //input[@id = 'userId' or @title = 'Email']
+
+        2) //tagName[text() = 'InnerText']
+        3) //tagName[contains(@attribute, 'value')]    use this when there is an attribute wih long text
+                examples:
+                //input[contains(@title, 'Em')]
+        4) //tagName[contain(text(), 'InnerText')]
+                examples:
+                //h3[contains(text(),'Useful Links for learning')]
+
+
+    Examples of other ways to use XPath:
+        //input[@*='userId']
+        //a[starts-with(text(), 'Amazon')]
+        (//input[@class = 'form-control']) [2]  how to make it unique
+        //*[local-name()='svg'] //*[name()='g']     when we come across a tagName svg
+        //[local-name()='svg']//[name()='dynamic']
+
