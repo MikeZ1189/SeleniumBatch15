@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e71f8d6a-affa-4f76-88a7-0ef4ceb70f4f" name="Changes" comment="class2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reviewClass2/LaunchApplication3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reviewClass2/LaunchApplication3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,55 +59,42 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="class7" />
       <recent name="reviewClass3" />
       <recent name="class5" />
       <recent name="reviewClass2" />
       <recent name="reviewClass1" />
-      <recent name="class4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HandlingAuthPopUps">
+  <component name="RunManager" selected="Application.tableSimple">
+    <configuration name="ExplicitWaitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class7.ExplicitWaitDemo" />
+      <module name="SeleniumBatch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExplicitWaitDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class7.ExplicitWaitDemo2" />
+      <module name="SeleniumBatch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HandlingAuthPopUps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="reviewClass3.HandlingAuthPopUps" />
-      <module name="SeleniumBatch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="reviewClass3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HandlingCheckboxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewClass3.HandlingCheckboxes" />
-      <module name="SeleniumBatch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="reviewClass3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HandlingMultipleCheckboxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewClass3.HandlingMultipleCheckboxes" />
-      <module name="SeleniumBatch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="reviewClass3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HandlingSelectiveCheckboxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewClass3.HandlingSelectiveCheckboxes" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
@@ -133,13 +119,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tableSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class7.tableSimple" />
+      <module name="SeleniumBatch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tableSimple" />
+        <item itemvalue="Application.ExplicitWaitDemo2" />
+        <item itemvalue="Application.ExplicitWaitDemo" />
         <item itemvalue="Application.HandlingAuthPopUps" />
         <item itemvalue="Application.HandlingSelectiveCheckboxes2" />
-        <item itemvalue="Application.HandlingSelectiveCheckboxes" />
-        <item itemvalue="Application.HandlingMultipleCheckboxes" />
-        <item itemvalue="Application.HandlingCheckboxes" />
       </list>
     </recent_temporary>
   </component>

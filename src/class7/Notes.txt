@@ -1,0 +1,15 @@
+Waits Revision:
+    1) Implicit
+    2) Explicit
+
+Implicit wait --> its a global wait
+                Is going to wait until the WebElement is found in the DOM
+
+Explicit wait --> is a conditional wait that is going to wait until a condition is fulfilled
+
+Syntax:
+        WebDriverWait wait = new WebDriverWait(driver, timeout));
+
+
+
+Fluent wait --> will be taught in interview preparations
