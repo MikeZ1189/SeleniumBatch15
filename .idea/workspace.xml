@@ -66,7 +66,7 @@
       <recent name="reviewClass1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.tableSimple">
+  <component name="RunManager" selected="Application.dynamicTable2">
     <configuration name="ExplicitWaitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class7.ExplicitWaitDemo" />
       <module name="SeleniumBatch15" />
@@ -93,25 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandlingAuthPopUps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewClass3.HandlingAuthPopUps" />
+    <configuration name="dynamicTable2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class8.dynamicTable2" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reviewClass3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HandlingSelectiveCheckboxes2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reviewClass3.HandlingSelectiveCheckboxes2" />
-      <module name="SeleniumBatch15" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="reviewClass3.*" />
+          <option name="PATTERN" value="class8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,13 +119,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tablesDynamic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class8.tablesDynamic" />
+      <module name="SeleniumBatch15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.tableSimple" />
+        <item itemvalue="Application.dynamicTable2" />
+        <item itemvalue="Application.tablesDynamic" />
         <item itemvalue="Application.ExplicitWaitDemo2" />
+        <item itemvalue="Application.tableSimple" />
         <item itemvalue="Application.ExplicitWaitDemo" />
-        <item itemvalue="Application.HandlingAuthPopUps" />
-        <item itemvalue="Application.HandlingSelectiveCheckboxes2" />
       </list>
     </recent_temporary>
   </component>

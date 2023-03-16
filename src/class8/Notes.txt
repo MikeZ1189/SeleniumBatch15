@@ -1,0 +1,4 @@
+Tables can be:
+    1) Static
+    2) Dynamic
+
