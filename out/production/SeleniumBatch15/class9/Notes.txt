@@ -1,0 +1,18 @@
+Tables can have multiple pages.
+Tables with pagination --> having multiple pages
+
+1) get all the values of the table, column on page 1
+2) look for the desired id
+3) if found() --> click the checkbox and break;
+4) if not found --> continue the loop until all values are check
+5) if all values are checked on th page but still not found
+6) click on the next page and repeat from step 2
+
+Stale Element exception:
+    This error happens when the DOM refreshes and the stated WebElements are no longer found by the DOM
+
+
+jsExecutor -->
+scroll
+drag and drop
+click
