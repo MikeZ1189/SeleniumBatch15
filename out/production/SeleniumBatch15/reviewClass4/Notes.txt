@@ -1,0 +1,12 @@
+//tagName[@attributeName='attributeValue']
+//tagName[text()='innerText']
+//tagName[contains(@attributeName, 'attributeValue')]
+//tagName[contains(text(), 'innerText')]
+
+//attributes + text  //button[text()='Log in' and @name='login']
+//text() + contains()   //button[text()='Log in' and contains(@name,'log')]
+// and, or
+// indexing
+(//input[@required='required'])[position()=1]  when there are multiple xpaths and want to select an specific one
+(//input[@required='required'])[last()]        this will give you the last xpath
+(//input[@required='required'])[last()-1]       this will give you the second to last

@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e71f8d6a-affa-4f76-88a7-0ef4ceb70f4f" name="Changes" comment="class2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumBatch15.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumBatch15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch15/class9/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumBatch15/class9/Notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SeleniumBatch15/class9/dragAndDrop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SeleniumBatch15/class9/dragAndDrop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reviewClass3/Notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/reviewClass3/Notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,20 +62,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="reviewClass5" />
+      <recent name="reviewClass4" />
       <recent name="class7" />
       <recent name="reviewClass3" />
       <recent name="class5" />
-      <recent name="reviewClass2" />
-      <recent name="reviewClass1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.dragAndDrop">
-    <configuration name="Calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class9.Calendar" />
+  <component name="RunManager" selected="Application.HandlingDropDown3">
+    <configuration name="FileUpload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass4.FileUpload" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class9.*" />
+          <option name="PATTERN" value="reviewClass4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="actionClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class9.actionClass" />
+    <configuration name="HandlingDropDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass5.HandlingDropDown" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class9.*" />
+          <option name="PATTERN" value="reviewClass5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dragAndDrop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class9.dragAndDrop" />
+    <configuration name="HandlingDropDown2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass5.HandlingDropDown2" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class9.*" />
+          <option name="PATTERN" value="reviewClass5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jsexecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class9.jsexecutor" />
+    <configuration name="HandlingDropDown3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass5.HandlingDropDown3" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class9.*" />
+          <option name="PATTERN" value="reviewClass5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="screenshot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class9.screenshot" />
+    <configuration name="RightClickAction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewClass4.RightClickAction" />
       <module name="SeleniumBatch15" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class9.*" />
+          <option name="PATTERN" value="reviewClass4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.dragAndDrop" />
-        <item itemvalue="Application.actionClass" />
-        <item itemvalue="Application.jsexecutor" />
-        <item itemvalue="Application.screenshot" />
-        <item itemvalue="Application.Calendar" />
+        <item itemvalue="Application.HandlingDropDown3" />
+        <item itemvalue="Application.HandlingDropDown2" />
+        <item itemvalue="Application.HandlingDropDown" />
+        <item itemvalue="Application.RightClickAction" />
+        <item itemvalue="Application.FileUpload" />
       </list>
     </recent_temporary>
   </component>

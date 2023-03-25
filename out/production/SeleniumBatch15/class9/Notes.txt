@@ -16,3 +16,80 @@ jsExecutor -->
 scroll
 drag and drop
 click
+
+
+Table with pagination
+
+Stale element exception:page is refreshed and elements are discarded
+solution: is to get those elements again.
+
+
+Calendars:
+1) drop drown, table
+2) calendar with a slider
+
+approach:
+    1. look for month, if that is not correct
+                                            click on next
+                                      repeat this until you find the right month
+    2. once the right month is found select the date
+
+    --------------------------
+Screen Shots
+    1. Import the jars common.io
+
+                ------ take screeenshot ---
+               1. TakesScreenshot ss = (TakesScreenshot) driver;
+                //take the scrren shot as file
+               2. File sourceFile = ss.getScreenshotAs(OutputType.FILE);
+                        System.out.println(sourceFile);
+                //save the file in computer
+                FileUtils.copyFile(source , destination)
+                        FileUtils.copyFile(sourceFile,new File("/Users/michaelzurita/IdeaProjects/SeleniumBatch15/src/scren/iou.png"));
+
+              sourcefile --> the file that contains the screenshot
+              new file   --> the file where the screenshot will be saved
+
+----------------------------------------------------------------------
+js executor
+
+You can perform alot of various actions using js executor
+1. click
+2. scroll
+3. highlight
+4. drag and drop
+
+approach:
+1) declaration
+    1. JavaScript Executor js=(javaScriptExecutor) driver;
+2) call the method of script
+    2. js.executescript("");
+
+----------------------------------------------------------------------
+
+Action class
+1. click
+2. rightclick
+3. draganddrop
+4. hover
+5. scroll
+6. and many more
+
+Approach:
+1) declaration
+    Actions action = new Actions (driver)
+
+2) action.choose your action.perform();
+    action.draganddrop().perform();
+
+----------------------------------------------------------------------
+Upload file
+
+can you upload a file through window popup in selenium?
+No. Can't handle in selenium
+
+1. find the WebElement to which you want to upload the file (lets say the button that upload the file)
+
+2. WebElement.sendKeys(path)  --> path is the path to your file that you want to upload.
+
+extension --> any extension that is there depending on the origin of the file
